@@ -25,8 +25,8 @@ Sigue estos pasos para levantar el proyecto en tu entorno local.
 
 ### 1. Clonar el Repositorio
 ```bash
-git clone <URL_DEL_REPOSITORIO>
-cd <NOMBRE_DE_LA_CARPETA>
+git clone https://github.com/SurivZ/Vertice
+cd Vertice
 ````
 
 ### 2\. Instalar Dependencias
